@@ -354,3 +354,26 @@
 2021-06-01 14:40:08,823 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-06-01 14:40:08,828 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-06-01 14:40:08,834 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-03 13:26:39,835 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-03 13:26:51,049 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-03 13:26:51,062 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-03 13:26:51,067 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-03 13:26:51,072 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-03 13:27:51,111 [Worker-16: Creating project "MavenProject"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: kr.hs.study:MavenProject:0.0.1-SNAPSHOT @ C:\MVCProject\MavenProject\pom.xml.
+2021-06-03 13:27:51,359 [Worker-16: Creating project "MavenProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenProject/src/main/java
+2021-06-03 13:27:51,362 [Worker-16: Creating project "MavenProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenProject/src/main/resources
+2021-06-03 13:27:51,364 [Worker-16: Creating project "MavenProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenProject/src/test/java
+2021-06-03 13:27:51,365 [Worker-16: Creating project "MavenProject"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenProject/src/test/resources
+2021-06-03 13:27:53,915 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-03 13:27:53,921 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-03 13:27:53,924 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-03 13:27:53,930 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-03 13:28:34,039 [Worker-15: Creating project "GetParameter"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kr.hs.study:GetParameter:0.0.1-SNAPSHOT @ C:\MVCProject\GetParameter\pom.xml.
+2021-06-03 13:28:35,142 [Worker-15: Creating project "GetParameter"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GetParameter/src/main/java
+2021-06-03 13:28:35,143 [Worker-15: Creating project "GetParameter"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GetParameter/src/main/resources
+2021-06-03 13:28:35,144 [Worker-15: Creating project "GetParameter"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GetParameter/src/test/java
+2021-06-03 13:28:35,145 [Worker-15: Creating project "GetParameter"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GetParameter/src/test/resources
+2021-06-03 13:28:35,802 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-03 13:28:35,807 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-03 13:28:35,809 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-06-03 13:28:35,814 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
