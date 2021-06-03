@@ -13,6 +13,5 @@
 <a href="/sub/test3">sub/test3</a>
 <a href="/sub/test3">sub/test4</a>
 <img src="/img/logo.svg"/>
-
 </body>
 </html>
