@@ -1875,3 +1875,36 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-06-03 14:23:27.733
 !MESSAGE No repository found at http://dist.springsource.com/snapshot/TOOLS/nightly/e4.4.
+
+!ENTRY org.eclipse.jface 2 0 2021-06-03 17:04:00.290
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-06-03 17:04:00.299
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6722183,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@263a3a0b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-03 17:04:01.075
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rzFZmtSK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-03 17:04:01.078
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.rzFZmtSK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-03 17:04:01.081
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-06-03 17:04:01.084
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rzFZmtSK => OK
