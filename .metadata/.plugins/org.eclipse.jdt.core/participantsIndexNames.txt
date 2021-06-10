@@ -7,10 +7,14 @@ C:\MVCProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\519551033.in
 \SpringMVCXML\src\main\java
 C:\MVCProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3679338804.index
 \SpringMVCXML\src\main\java
+C:\MVCProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1719693148.index
+\ViewResolver\src\main\java
 C:\MVCProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3213911023.index
 \CommandObject\src\main\java
 C:\MVCProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1470037750.index
 \CommandObject\src\main\java
+C:\MVCProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4259301029.index
+\ViewResolver\src\main\java
 C:\MVCProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3604346038.index
 \SpringMVCXML\src\main\java
 C:\MVCProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\496211561.index
