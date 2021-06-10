@@ -1,11 +1,6 @@
 INDEX VERSION 1.4+C:\MVCProject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4259301029.index
-3604887925.index
-3394520413.index
-3213911023.index
 1974019918.index
-1470037750.index
-1719693148.index
+3604887925.index
 1223790322.index
-712028852.index
 415442384.index
+1719693148.index
