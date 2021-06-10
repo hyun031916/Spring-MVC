@@ -11,7 +11,6 @@
 	</head>
 	<body>
 		<h1>Hello Spring MVC</h1>
-		<img src="/img/logo.svg" width="150" height="100">
 		<jsp:include page="include/menu.jsp"/>
 	</body>
 </html>
