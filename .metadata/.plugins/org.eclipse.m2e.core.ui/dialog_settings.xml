@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\MVCProject\MavenResolver"/>
 			<item value="C:\MVCProject\CommandObject"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -49,6 +50,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="FromCustom"/>
+			<item value="MavenResolver"/>
 			<item value="ViewResolver"/>
 			<item value="CommandObject"/>
 			<item value="GetParameter"/>

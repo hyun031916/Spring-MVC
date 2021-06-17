@@ -9,5 +9,6 @@
 </head>
 <body>
 <a href="test1">1. request로 수정(jsp)</a>
+<a href="test2">2. Customtag 1</a>
 </body>
 </html>
