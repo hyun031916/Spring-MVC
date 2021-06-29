@@ -9,4 +9,4 @@
 <body>
 hello Test1
 </body>
-</html>
+</html>"C:/3106 김수현/Spring/스프링/SpringMVC/ViewResolver/src/main/webapp/WEB-INF/views/result.jsp"
